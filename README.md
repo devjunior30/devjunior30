@@ -7,9 +7,13 @@
 <br>
  <img width="80px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  
-Estudo na instituição DevClub aonde me desenvolvo cada dia mais na área da programação.
+Estudo na instituição DevClub aonde me desenvolvo cada dia mais na área da programação. 
+
 
 Redes Sociais 
 
 <a href="https://www.linkedin.com/in/edson-junior-2bb72b232/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<br>
+
+Trabalho como Estoquista na Empresa Embrepar distribuidora de peças mas estou passando por uma transição de carreira para Programador
 
