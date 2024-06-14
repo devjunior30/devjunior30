@@ -1,6 +1,6 @@
 ### Hi there :smiley:
  
- Edson Junior, sou Programador Fonte End, atualmente estou aprendendo a criar projetos com
+ Edson Vieira, sou Programador Fonte End, atualmente estou aprendendo a criar projetos com
 <br>
 <br>
  <img width="80px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
